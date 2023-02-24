@@ -6,6 +6,8 @@ The text below was published to LinkedIn on Tuesday, February 21st, 2023 to gath
 
 # Swift Developer Community in Aarhus
 
+Welcome to the Swift Developer Community meetup in Aarhus. :-)
+
 Are you a Swift enthusiast in the vicinity of Aarhus? Join us for an occasional after-hours meetup to discuss all things Swift, including:
 
 * Swift Evolution
