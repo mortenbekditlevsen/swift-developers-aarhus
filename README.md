@@ -1,3 +1,15 @@
+# Deprecation warning
+
+After using Github for discussions, the meetup has moved to Slack, so please join us there:
+
+https://join.slack.com/t/swiftdevelopersaarhus/shared_invite/zt-245acml44-Hu3DA4oAl6YgysItmDDVMw
+
+New meetups will be announced there - as well on Eventbrite where you can follow the meetup here:
+
+https://www.eventbrite.com/o/swift-developers-aarhus-63584939573
+
+Apologies to anyone following this discussion repo and thus missing our fourth meetup that I failed to announce in here.
+
 # About
 
 This repository mainly exists to provide a space for discussions related to the Swift Developer Community in Aarhus.
